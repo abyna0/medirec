@@ -1,0 +1,7 @@
+{
+  "name": "MediRec - Integrated Medical Record System",
+  "description": "A comprehensive hospital management and electronic medical record system featuring role-based access, patient management, clinical documentation, and scheduling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
